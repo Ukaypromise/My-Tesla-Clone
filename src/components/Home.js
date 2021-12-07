@@ -10,7 +10,7 @@ function Home() {
         description="Order Online for Touchless Delivery"
         backgroundImg="model-s.jpg"
         leftBtnText="Custom Order"
-        rightBtnText="Existing Inventory"
+        rightBtnText="Existing Inventories"
       />
       <Section
         title="Model 3"
